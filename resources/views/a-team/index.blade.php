@@ -7,9 +7,9 @@
         </h1>
     </div>
     <div class="container">
-        <div class="col">
-            <div class="row fw-bold">
-                Ciao come stai?
+        <div class="row fw-bold">
+            <div class="col">
+                <p>Ciao come stai?</p>
             </div>
         </div>
 
