@@ -22,4 +22,4 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/pokemon/create', [PokemonController::class, "create"])->name('pokenmon.create');
+Route::get('/a-team/index', [PokemonController::class, "index"])->name('pokemon.index');
