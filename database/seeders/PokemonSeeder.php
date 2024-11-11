@@ -13,8 +13,8 @@ class PokemonSeeder extends Seeder
      */
     public function run(): void
     {
-        Pokemon::create(['name' => 'Pikachu', 'type' => 'Elettro']);
-        Pokemon::create(['name' => 'Charmander', 'type' => 'Fuoco']);
-        Pokemon::create(['name' => 'Bulbasaur', 'type' => 'Erba']);
+        Pokemon::create(['name' => 'Pikaciello', 'type' => 'Elettro']);
+        Pokemon::create(['name' => 'Minchiarmander', 'type' => 'Fuoco']);
+        Pokemon::create(['name' => 'Bulbasauresco Minichiello', 'type' => 'Erba']);
     }
 }
